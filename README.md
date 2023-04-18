@@ -1,6 +1,2 @@
-
-
-<!---
-Ekfman/Ekfman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, my name is Erin Firstman.
+### I am addicted to solving problems and turning ideations into a virtual creation.
