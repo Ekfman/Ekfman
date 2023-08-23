@@ -1,6 +1,7 @@
 # Hello, my name is Erin Firstman.
  I am addicted to solving problems and turning ideations into virtual creations.
 
+![Neon Minimalist Motivational Inspirational Quote Facebook Cover](https://github.com/Ekfman/Ekfman/assets/97008807/cefc6023-ad86-476f-8113-c4dde3d4e248)
 
 ## Technologies and Skills
 
