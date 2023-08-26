@@ -6,11 +6,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Deployed Projects
-The Auction Attic:
+------------------
+
+<a href="https://the-auction-attic.netlify.app/">The Auction Attic<a/><span> (A simple online secondhand marketplace)</span>
 <br/>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/154469b0-66bb-486a-acb6-c375d9509f82/deploy-status)](https://app.netlify.com/sites/the-auction-attic/deploys)
+<br/>
 
-### <ins>Technologies and Skills<ins/>
+### Technologies and Skills
+------------------
 
 <img align="left" alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -22,7 +26,9 @@ The Auction Attic:
 <img align="left" alt="psql" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <br/>
 
-### <ins>Currently Learning</ins>
+### Currently Learning
+------------------
+
 <img align="left" alt="typescript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="jest" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />         
 <img align="left" alt="tailwind" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />     
