@@ -5,6 +5,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+### Deployed Projects
+The Auction Attic:
+<br/>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/154469b0-66bb-486a-acb6-c375d9509f82/deploy-status)](https://app.netlify.com/sites/the-auction-attic/deploys)
 
 ### <ins>Technologies and Skills<ins/>
 
