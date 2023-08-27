@@ -6,9 +6,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Deployed Projects
-------------------
-
-<a href="https://the-auction-attic.netlify.app/">The Auction Attic<a/><span> (A simple online secondhand marketplace)</span>
+------------------  
+<ul>
+  <li>
+    <a href="https://the-auction-attic.netlify.app/">The Auction Attic<a/><span> (A simple online secondhand marketplace)</span>
+  </li>
+</ul>
 <br/>
 
 ### Technologies and Skills
