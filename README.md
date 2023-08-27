@@ -10,8 +10,6 @@
 
 <a href="https://the-auction-attic.netlify.app/">The Auction Attic<a/><span> (A simple online secondhand marketplace)</span>
 <br/>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/154469b0-66bb-486a-acb6-c375d9509f82/deploy-status)](https://app.netlify.com/sites/the-auction-attic/deploys)
-<br/>
 
 ### Technologies and Skills
 ------------------
